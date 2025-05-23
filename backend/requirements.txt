@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydicom
+pillow
+requests
+openai      # optional if you use GPT
