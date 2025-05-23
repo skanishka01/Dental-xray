@@ -142,7 +142,10 @@ project-root/
 
 ## 📷 Preview
 
-![App Screenshot](https://github.com/user-attachments/assets/082c45ca-2b32-4e35-97ee-eb4a43f623ab)
+![Screenshot 2025-05-23 135830](https://github.com/user-attachments/assets/bafc676b-ad03-43a9-b6dd-9c3c7a9c2bdb)
+![Screenshot 2025-05-23 135859](https://github.com/user-attachments/assets/e4933541-c94b-405d-be56-2edeb72adcea)
+
+
 
 ---
 
